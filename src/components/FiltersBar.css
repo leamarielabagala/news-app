@@ -1,0 +1,12 @@
+.FiltersBar {
+  display: flex;
+}
+
+.FiltersBar-dropdown {
+  width: 25% !important;
+  margin-right: 1rem;
+}
+
+.FiltersBar-input {
+  flex-grow: 1;
+}
